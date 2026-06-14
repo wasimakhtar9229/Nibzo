@@ -3,7 +3,7 @@
  * SPDX-License-Identifier: Apache-2.0
  */
 
-// Core Domain Types for Nibzo Subscription delivery platform
+// Core Domain Types for NIBZO Subscription delivery platform
 
 export enum UserRole {
   CUSTOMER = 'CUSTOMER',

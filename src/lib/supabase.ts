@@ -41,7 +41,7 @@ export function getSupabaseClient(): SupabaseClient | null {
 }
 
 // SQL Script generator for the user's Supabase SQL Editor
-export const SUPABASE_SQL_SETUP = `-- Supabase SQL Setup for Nibzo Application
+export const SUPABASE_SQL_SETUP = `-- Supabase SQL Setup for NIBZO Application
 -- Paste this script inside your Supabase SQL Editor (https://supabase.com/dashboard/project/_/sql)
 
 -- 1. Create Restaurants Table
