@@ -1,0 +1,6 @@
+{
+  "name": "Nibzo",
+  "description": "Nibzo - Zero-Commission Subscription-Based Hyperlocal Food Delivery Platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
